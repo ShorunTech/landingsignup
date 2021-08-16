@@ -1,0 +1,162 @@
+.login-block {
+	background: #ffffff;
+	/* fallback for old browsers */
+	background: -webkit-linear-gradient(to bottom, #ffffff, #ffffff);
+	/* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to bottom, #ffffff, #ffffff);
+	/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	float: left;
+	width: 100%;
+	padding: 70px 0;
+}
+
+
+.login-block .col-md-7 {
+
+	padding-right: 0px;
+	padding-left: 5px;
+    height: 0px;
+
+}
+.banner .col-md-5 {
+	padding-right: 0px;
+	padding-left: 5px;
+    height: 0px;
+}
+
+
+.banner-sec {
+	background-size: cover;
+	min-height: 500px;
+	border-radius: 0 10px 10px 0;
+	padding: 0;
+}
+
+.container {
+	background: #fff;
+	
+}
+
+.mb-5,
+.my-5 {
+  margin-bottom: 3rem !important; 
+  
+}
+
+
+
+.ml-5,
+.mx-5 {
+  margin-left: 3rem !important; 
+}
+
+.carousel-caption {
+	text-align: left;
+	left: 5%;
+}
+
+.login-sec {
+	padding: 50px 30px;
+	position: relative;
+}
+
+.login-sec .copy-text {
+	position: absolute;
+	width: 80%;
+	bottom: 20px;
+	font-size: 13px;
+	text-align: center;
+}
+
+
+.h2 {
+	margin-bottom: 30px;
+	font-weight: 800;
+	font-size: 30px;
+	color: #DE6262;
+}
+
+.login-sec h2:after {
+	content: " ";
+	width: 100px;
+	height: 5px;
+	background: #FEB58A;
+	display: block;
+	margin-top: 20px;
+	border-radius: 3px;
+	margin-left: auto;
+	margin-right: auto
+}
+
+.btn-primary {
+	background: #DE6262;
+	color: #fff;
+	font-weight: 600;
+}
+
+.banner-text {
+	width: 70%;
+	position: absolute;
+	bottom: 40px;
+	padding-left: 20px;
+}
+
+.banner-text h2 {
+	color: #fff;
+	font-weight: 600;
+}
+
+.banner-text h2:after {
+	content: " ";
+	width: 100px;
+	height: 5px;
+	background: #FFF;
+	display: block;
+	margin-top: 20px;
+	border-radius: 3px;
+	
+}
+
+.banner-text p {
+	color: #fff;
+}
+
+
+
+
+@media (max-width: 1000px) {
+
+	
+}
+
+@media (max-width: 991px) {
+
+
+	
+	
+		
+}
+
+@media (max-width: 843px) {
+
+	
+
+}
+
+@media (max-width: 1045px) {
+
+	
+}
+
+@media (max-width: 620px) {
+	
+
+	
+}
+
+@media (max-width: 500px) {
+
+	
+
+}
+
